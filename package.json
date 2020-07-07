@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/infin1tyy/snapdrop-desktop#readme",
   "dependencies": {
-    "electron": "^5.0.2"
+    "electron": "^7.2.4"
   },
   "devDependencies": {
     "electron-packager": "^13.1.1"
